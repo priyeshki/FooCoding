@@ -1,0 +1,6 @@
+var y= "Priyesh";
+console.log("the value of my variable y will be: Priyesh");
+console.log(y);
+y= "Sweden";
+console.log("the value of my variable y will be: Sweden");
+console.log(y);
